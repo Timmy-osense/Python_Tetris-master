@@ -1,0 +1,14 @@
+# Python Tetris 遊戲專案依賴套件
+
+# 遊戲開發套件
+pygame>=2.5.0
+
+# Web API 框架 (for main.py)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# 標準庫套件 (通常不需要安裝)
+# os - 內建套件
+# sys - 內建套件
+# random - 內建套件
+# time - 內建套件
